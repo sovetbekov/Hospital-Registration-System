@@ -20,6 +20,7 @@ Hospital Management System(HMS) consists of 8 classes:
 ## Usage
 
 ### *PatientRegistration.java*
+This class records patient data depending on what was written in text fields. Main GUI is stored there.
 ```
 public PatientRegistration()
     {
